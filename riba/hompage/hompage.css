@@ -4,6 +4,22 @@
     box-sizing: border-box;
 }
 .header_block{
-    background-color: #ffae00;
+    background-color: #e6af3b;
     color: black;
+}
+#text_1{
+    font-family: Roboto Condensed;
+    font-size: 70px;
+    text-align: center;
+}
+#text_2{
+    font-family: lato;
+    size: 38px;
+    text-align: center;
+}
+.page_controler{
+    font-family: Roboto Thin;
+    font-size: 25+px;
+    display: flex;
+    font-style: initial;
 }
