@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box_1{
+    margin: 50px;
+    border: 5px double black;
+    outline-width: 5px;
+    outline-style: inset;
+    outline-color: chocolate;
+    outline-offset: 5px;
+    /* outline-radius: 5px; */
+}
+.box_2 span h1{
+    text-transform: capitalize;
+    text-decoration: wavy;
+    color:chocolate;
+    text-align: right;
+    border: 5px double goldenrod;
+    margin-left: auto;
+    text-transform: capitalize;
+    text-orientation: inherit;
+    letter-spacing: 20px;
+}
+.box_3{
+    text-transform: capitalize;
+    color: crimson;
+    text-indent: 10px;
+    word-spacing: 5px;
+    line-height: 1.5;
+}
