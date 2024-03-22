@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#heading_1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-family: roboto condensed;
+    font-size: 50px;
+    color: royalblue;
+}
+.list{
+    padding: 20px;
+    border: 5px solid orange;
+    border-radius: 10px;
+    width: 250px;
+    height: auto;
+    align-content: center;
+    font-family: lato;
+    font-size: 20px;
+    font-style: normal;
+    color: teal;
+}
+ul{
+    list-style-type:none;
+}
