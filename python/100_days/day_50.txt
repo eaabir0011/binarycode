@@ -1,0 +1,11 @@
+black
+white 
+blue 
+red
+12
+56
+94
+36
+24
+1
+24

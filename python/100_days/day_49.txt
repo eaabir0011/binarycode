@@ -1,0 +1,4 @@
+This is the core of file.io
+You can read it fromo here 
+This is a new line This is a new line This is a new line 
+ This is a new line 

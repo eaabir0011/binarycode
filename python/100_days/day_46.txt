@@ -1,0 +1,7 @@
+os module's function
+
+mkdir==for making new ndirectories
+rmdir== delet existed empty directory
+getcwd== current directory 
+rename==rename folders ==> ("previous name","New name" )
+listdir==to know how much folders in directories 
